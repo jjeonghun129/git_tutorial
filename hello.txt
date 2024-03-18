@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+1 line
+
+=======
+
+Second line
+>>>>>>> 6fa1598 (First commit from new_branch)
